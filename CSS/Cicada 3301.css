@@ -22,9 +22,6 @@
     font-family: FuturaL;
     src: url(Fontes/Futura-Light.otf);
 }
-::-webkit-scrollbar{
-    display: none;
-}
 
 #body{
     background-color: #191919;
